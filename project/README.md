@@ -1,8 +1,8 @@
 # Instalacja środowiska
 
 Do pracy nad projektem dostępne są środowiska:
-- [Docker](##uruchamianie-projektu-z-Sail-(docker-compose)) (Laravelowa komenda `sail`)
-- [Windows z XAMPP](##instalacja-środowiska-dla-windows)
+- Docker (Laravelowa komenda `sail`)
+- Windows z XAMPP
 
 ---
 
