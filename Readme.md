@@ -30,7 +30,8 @@ Aplikacja będzie również umożliwiała wyznaczenia trasy z lokalizacji użytk
 - Trasowanie - wyznacznie trasy z punktu np. lokalizacji użytkownika do wybranego składu budowlanego
 
 
-**Informacje na temat**
+Informacje na temat:
+
 * aktorów i przypadków użycia
 * diagramy sekwencji
 * diagramy bazy danych
