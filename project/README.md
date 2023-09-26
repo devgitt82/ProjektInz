@@ -1,4 +1,4 @@
-# Instalacja środowiska
+# Środowiska
 
 Do pracy nad projektem dostępne są środowiska:
 - Docker (Laravelowa komenda `sail`)
