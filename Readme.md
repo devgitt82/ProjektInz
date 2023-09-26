@@ -30,7 +30,7 @@ Aplikacja będzie również umożliwiała wyznaczenia trasy z lokalizacji użytk
 - Trasowanie - wyznacznie trasy z punktu np. lokalizacji użytkownika do wybranego składu budowlanego
 
 ---
-Specyfikacja wymagań syemowych oraz informacje na temat:
+Specyfikacja wymagań systemowych oraz informacje na temat:
 
 * aktorów i przypadków użycia
 * diagramy sekwencji
