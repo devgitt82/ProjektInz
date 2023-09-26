@@ -1,10 +1,9 @@
 # Portal zarządzający i udostępniający informacje przestrzenne o lokalizacjach obiektów określonego rodzaju - projekt inżynierski
 
-## Projekt Systemu - Składy budowlane
 
 ### Wstęp
 
-Projekt ma za cel implementacje aplikacji internetowego dostarczającej informacji o składach budowlanych. Aplikacja będzie umożliwiała wyszukanie lokalnych składów budowlanych, przegląd ich najpopularniejszego asortymentu z podziałem na kategorie oraz innych przydatnych informacji takich jak: 
+Projekt ma za cel implementacje aplikacji internetowej dostarczającej informacji o składach budowlanych. Aplikacja będzie umożliwiała wyszukanie lokalnych składów budowlanych, przegląd ich najpopularniejszego asortymentu z podziałem na kategorie oraz innych przydatnych informacji takich jak: 
 - godziny otwarcia
 - przynależność do sieci sklepów
 - oferta - podzielona na kategorie
