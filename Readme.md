@@ -29,7 +29,7 @@ Aplikacja będzie również umożliwiała wyznaczenia trasy z lokalizacji użytk
 - Znajdowanie składu
 - Trasowanie - wyznacznie trasy z punktu np. lokalizacji użytkownika do wybranego składu budowlanego
 
-
+---
 Informacje na temat:
 
 * aktorów i przypadków użycia
