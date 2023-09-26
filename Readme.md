@@ -35,5 +35,6 @@ Aplikacja będzie również umożliwiała wyznaczenia trasy z lokalizacji użytk
 * diagramy sekwencji
 * diagramy bazy danych
 * opis architektury systemu i użytych technologii
+  
 znajdują się w katalogu docs.
 
