@@ -1,4 +1,4 @@
-# Portal zarządzający i udostępniający informacje przestrzenne o lokalizacjach obiektów określonego rodzaju - projekt inżynierski
+# Portal zarządzający i udostępniający informacje przestrzenne o lokalizacjach obiektów określonego rodzaju - projekt inżynierski (rozwinięcie projektu grupowego z 5 semestru studiów)
 
 
 ### Cel projektu.
